@@ -1,0 +1,2 @@
+PyQt6>=6.10.0
+google-genai>=1.0.0

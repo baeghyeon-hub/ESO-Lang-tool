@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+en.lang
+en.lang.csv
+kr.lang
+*.mod.json
+settings.json
+.claude/
+백업/
