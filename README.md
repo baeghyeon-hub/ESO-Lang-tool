@@ -2,7 +2,7 @@
 
 Elder Scrolls Online `.lang` 바이너리 파일 한글화 편집 도구.
 
-![메인 화면](screenshot/3.png)
+![메인 화면](screenshot/main.png)
 
 ## 주요 기능
 
